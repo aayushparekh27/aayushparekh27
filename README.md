@@ -9,54 +9,79 @@
 
 ## 👨‍💻 About Me
 
-- 🕵️ I hunt scammers with code — digital justice is my vibe.
-- 💡 Building tools, scripts & systems to protect the internet.
-- 🚧 Always experimenting with tech that challenges norms.
-- 🌱 Diving deep into:
-  - Advanced Shell Scripting
-  - Web Exploitation & Secure Web Dev
-  - Systems Programming (C/C++)
+- 🧠 Linux Master | Shell Script Sorcerer | Networking Ninja
+- ⚙️ Automating chaos and debugging the matrix
+- 🌐 From Kali to Arch — I’ve danced with them all
+- 💬 Fluent in Python, Kotlin, Ruby, C-family, PHP, and more
 - 💌 Reach me: **aayushparekh26@gmail.com**
-- 😄 Pronouns: He/Him
-- 🎯 Mission: Help others stay one step ahead of the traps.
+- 🎯 Goal: Build secure tools, trap scammers, and educate the world.
 
 ---
 
-## 🧠 Languages & Skills
+## 🧠 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql,java,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,ruby,java,php,js,html,css,c,cpp,bash" />
 </p>
 
-> I speak fluent terminal, fluent logic, and fluent sarcasm 😎
+> 🧪 Constantly learning. Always evolving.
 
 ---
 
-## 🧰 Tools & Tech Stack
+## 🧰 Linux Skills & OS Mastery
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20(Master)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-00bfff?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+- 🧰 Mastered Linux terminal & tools (nmap, wireshark, metasploit, aircrack-ng, etc.)
+- 📦 Bash/Python automation for daily ops
+- 🔥 Wrote custom scripts to audit and defend systems
+
+---
+
+## 🌐 Networking Knowledge
+
+- 💻 Networking Fundamentals 100% ✔️
+- 🧠 Deep understanding of:
+  - OSI & TCP/IP Models
+  - Subnetting, DNS, DHCP, NAT, VPNs
+  - Packet crafting & sniffing (Wireshark FTW)
+- 📡 Simulated networks in VMs and hacked them ethically
+
+---
+
+## 📦 Tech Stack & Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-ff3300?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🧩 Fun Facts
+## 🎯 Fun Facts
 
-- 🤖 I automate tasks most people don’t even realize can be automated.
-- 💣 I debug like I'm defusing a bomb — calm hands, sharp brain.
-- 🧠 I believe cybersecurity isn't a skill, it’s a **mindset**.
+- 🎯 I can sniff packets faster than most people load websites
+- 🧠 I treat terminal like an extension of my mind
+- 👨‍🏫 I'm building a future where people won't fall for digital scams
 
 ---
 
-## 🚀 Let’s Connect
+## 📫 Let’s Connect
 
 - 📬 Email: **aayushparekh26@gmail.com**
-- 🌐 More coming soon...
+- ⚔️ Motto: *“Hack the bad, protect the good.”*
+- 🧠 Always learning. Always sharing.
 
 ---
 
-<p align="center"><b><i>"Hack the bad, protect the good."</i></b></p>
-<p align="center">– Zerodegree 🕶️</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Thanks_for_visiting!-00bfff?style=for-the-badge" />
+</p>
