@@ -1,47 +1,34 @@
-<h1 align="center">Hey there, I'm Zerodegree 👋</h1>
-<p align="center">🚀 Full-stack Dev | Cybersecurity Enthusiast | Digital Detective 🕵️‍♂️</p>
+<h1 align="center">⚡ Zerodegree ⚡</h1>
+<p align="center">🚀 Full-stack Developer • 🧠 Ethical Hacker • 🛡️ Scam Buster • 💻 Code Wizard</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&height=50&lines=Code.+Break.+Secure.+Repeat.;Think+like+a+hacker%2C+build+like+a+dev.;Stay+sharp.+Stay+ethical.">
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🔍 Passionate about ethical hacking, automation, and exposing scammers.
-- 🛠️ Building tools that help keep the internet a safer place.
-- 🌱 Currently diving deeper into:
+- 🕵️ I hunt scammers with code — digital justice is my vibe.
+- 💡 Building tools, scripts & systems to protect the internet.
+- 🚧 Always experimenting with tech that challenges norms.
+- 🌱 Diving deep into:
   - Advanced Shell Scripting
-  - C/C++ Systems Programming
-  - Java & PHP backend power
-  - Web stacks (HTML, CSS, JS)
-- 📫 Reach me at: zerodegree@example.com (or add socials below)
+  - Web Exploitation & Secure Web Dev
+  - Systems Programming (C/C++)
+- 💌 Reach me: **aayushparekh26@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I code like a ninja 🥷 and think like Sherlock 🧠
+- 🎯 Mission: Help others stay one step ahead of the traps.
 
 ---
 
-## 💻 Languages I Speak
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C Advanced](https://img.shields.io/badge/-C%20Advanced-004482?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🧠 Languages & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerodegree&show_icons=true&theme=radical" alt="Zerodegree's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql,java,c,cpp,bash" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zerodegree&theme=radical" alt="Zerodegree's GitHub streak" />
-</p>
+> I speak fluent terminal, fluent logic, and fluent sarcasm 😎
 
 ---
 
@@ -56,10 +43,20 @@
 
 ---
 
-## 🔥 Let's Connect!
+## 🧩 Fun Facts
 
-- 💬 DM me about collaboration, security tools, or anything geeky.
-- 🧠 Always open to learning and sharing.
+- 🤖 I automate tasks most people don’t even realize can be automated.
+- 💣 I debug like I'm defusing a bomb — calm hands, sharp brain.
+- 🧠 I believe cybersecurity isn't a skill, it’s a **mindset**.
 
-> ⚔️ *“Hack the bad, protect the good.”*  
-> – Zerodegree
+---
+
+## 🚀 Let’s Connect
+
+- 📬 Email: **aayushparekh26@gmail.com**
+- 🌐 More coming soon...
+
+---
+
+<p align="center"><b><i>"Hack the bad, protect the good."</i></b></p>
+<p align="center">– Zerodegree 🕶️</p>
