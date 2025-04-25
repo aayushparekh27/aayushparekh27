@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Aayush ⚡</h1>
+<h1 align="center">⚡ Aayush Parekh ⚡</h1>
 <p align="center">🚀 Full-stack Developer • 🧠 Ethical Hacker • 🛡️ Scam Buster • 💻 Code Wizard</p>
 
 <p align="center">
