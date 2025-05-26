@@ -21,7 +21,7 @@
 ## 🧠 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,ruby,java,php,js,html,css,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp,bash" />
 </p>
 
 > 🧪 Constantly learning. Always evolving.
