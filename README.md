@@ -12,7 +12,7 @@
 - 🧠 Linux Master | Shell Script Sorcerer | Networking Ninja
 - ⚙️ Automating chaos and debugging the matrix
 - 🌐 From Kali to Arch — I’ve danced with them all
-- 💬 Fluent in Python, Kotlin, C-family, PHP, and more
+- 💬 Fluent in C-family, PHP, and more
 - 💌 Reach me: **aayushparekh26@gmail.com**
 - 🎯 Goal: Build secure tools, trap scammers, and educate the world.
 
