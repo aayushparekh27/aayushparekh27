@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Aayush Parekh ⚡</h1>
-<p align="center">🚀 Full-stack Developer • 🧠 Ethical Hacker • 🛡️ Scam Buster • 💻 Code Wizard</p>
+<p align="center">• 🧠 Ethical Hacker • 🛡️ Scam Buster • 💻 Code Wizard</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&height=50&lines=Code.+Break.+Secure.+Repeat.;Think+like+a+hacker%2C+build+like+a+dev.;Stay+sharp.+Stay+ethical.">
